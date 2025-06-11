@@ -1,0 +1,6 @@
+{
+    "component": true,
+    "usingComponents": {
+        "z-swiper-item": "/uni_modules/zebra-swiper/components/z-swiper-item/z-swiper-item"
+    }
+}

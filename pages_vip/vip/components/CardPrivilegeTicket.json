@@ -1,0 +1,7 @@
+{
+    "component": true,
+    "usingComponents": {
+        "list-privilege": "/pages_vip/vip/components/ListPrivilege",
+        "ticket-list": "/pages_vip/vip/components/TicketList"
+    }
+}

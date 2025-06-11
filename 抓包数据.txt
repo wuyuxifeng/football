@@ -1,0 +1,48 @@
+POST https://xcx-api.dasheng.top/api/ticket/v1/app/online/show/getSaleableSeatsJson HTTP/1.1
+Host: xcx-api.dasheng.top
+Accept: */*
+Authorization: Bearer eyJhbGciOiJIUzUxMiJ9.eyJleHAiOjE3NDk4NjA4NjUsIndlYl9hcHBfbG9naW5fdXNlcl9rZXkiOiJlMjc3NWQxN2I0NWUyMzI1ZGI2NmNiMTI4Y2U4MTE1ZSJ9.LQw54v2_d5sdruVVopC45HUsp9u_c9dPcxtycJNg0i4yN2oQRV5RxfNxu3PBUKAFoF8HUy63uBRjTGGGHICgVA
+Sec-Fetch-Site: same-site
+accessKey: Bearer 3578fb911e8845918471f2108fddd558
+Accept-Language: zh-CN,zh-Hans;q=0.9
+Accept-Encoding: gzip, deflate, br
+Sec-Fetch-Mode: cors
+Content-Type: application/json
+Origin: https://seat2.dasheng.top
+User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 17_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.59(0x18003b2e) NetType/WIFI Language/zh_CN miniProgram/wxfabc7ab137658e55
+Referer: https://seat2.dasheng.top/
+Content-Length: 63
+Connection: keep-alive
+Sec-Fetch-Dest: empty
+sign: a5feda9d91c1128e92c898c3c1761c2d
+
+{"areaId":"1925452615225307137","showId":"1925452606765395969"}
+
+
+
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: application/json;charset=UTF-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Date: Wed, 11 Jun 2025 07:37:14 GMT
+Set-Cookie: acw_tc=0bd17c5e17496274340654063ef0661f8f14e5ae32f16f108eff7c2f0d871d;path=/;HttpOnly;Max-Age=1800
+Content-Encoding: gzip
+Access-Control-Allow-Origin: *
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+Access-Control-Allow-Credentials: true
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Http-Trace-Header-Id: a8bd127ec4227d24ab7477bd7e89f6db
+X-Different-Name: true
+X-Original-Forwarded-For: 112.84.80.137
+Access-Control-Allow-Methods: PUT, GET, POST, OPTIONS, DELETE
+Access-Control-Allow-Headers: DNT,Sw8,web-token,app-token,istoken,sign,accesskey,ctms,Authorization,Accept,Origin,Keep-Alive,User-Agent,X-Mx-ReqToken,X-Data-Type,X-Auth-Token,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range,token,Cookie,Lang
+Access-Control-Max-Age: 1728000
+Via: ens-cache11.l2nm125-7[100,0], cache22.cn7164[125,0]
+Timing-Allow-Origin: *
+EagleId: 705756aa17496274340428435e
+
+46e
+�

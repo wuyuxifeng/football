@@ -1,0 +1,1006 @@
+{
+    "subPackages": [
+        {
+            "root": "pages_search/"
+        },
+        {
+            "root": "pages_config/"
+        },
+        {
+            "root": "pages_game/"
+        },
+        {
+            "root": "pages_order/"
+        },
+        {
+            "root": "pages_wallet/"
+        },
+        {
+            "root": "pages_mall/"
+        },
+        {
+            "root": "pages_plan/"
+        },
+        {
+            "root": "pages_vip/"
+        },
+        {
+            "root": "pages_mine/"
+        },
+        {
+            "root": "pages_activity/"
+        }
+    ],
+    "entryPagePath": "pages/index/index.html",
+    "pages": [
+        "pages/index/index",
+        "pages/zthtml/zthtml",
+        "pages/index/index_leveltwo",
+        "pages/training/training",
+        "pages/gameevent/gameevent",
+        "pages/training/travel",
+        "pages/mine/mine",
+        "pages/mine/apppay",
+        "pages/training/detail",
+        "pages/mine/login",
+        "pages/plan/specialtopicdetail",
+        "pages/mine/ticketwallet",
+        "pages/invitation/invitationdetail",
+        "pages/mall/mall",
+        "pages/mall/mallIndex",
+        "pages/plan/internationalevents",
+        "pages/information/information",
+        "pages_search/search/search",
+        "pages_search/mallsearch/mallsearch",
+        "pages_config/sysconfig/sysconfig",
+        "pages_config/sysconfig/sysnamenotice",
+        "pages_config/setavatar/setavatar",
+        "pages_config/contactcustomerservice/contactcustomerservice",
+        "pages_config/scan/scanCode",
+        "pages_config/scan/scanResult",
+        "pages_config/city/choosecity",
+        "pages_config/information/informationdetail",
+        "pages_config/information/informationwithouttab",
+        "pages_config/uploadImg/uploadImg",
+        "pages_config/loginforapp/loginforapp",
+        "pages_config/limitFlow/limitFlow",
+        "pages_config/verifyCode/verifyCode",
+        "pages_config/subSale/subSale",
+        "pages_game/gameevent/eventdetail",
+        "pages_game/gameevent/eventpayfinish",
+        "pages_game/gameevent/eventpay",
+        "pages_game/gameevent/addaddress",
+        "pages_game/gameevent/chooseseat",
+        "pages_game/gameevent/sharepreview",
+        "pages_game/gameevent/shareforplan",
+        "pages_game/gameevent/shareforevent",
+        "pages_game/gameevent/orgIntroduce",
+        "pages_game/gameevent/writeEventForm",
+        "pages_game/gameevent/ticketsTips",
+        "pages_game/gameevent/eventSession",
+        "pages_order/mine/activityorder",
+        "pages_order/mine/activityorderdetail",
+        "pages_order/mine/eventorderdetail",
+        "pages_order/mine/activityentryinfo",
+        "pages_order/mine/logisticsinfo",
+        "pages_order/mine/planorderdetail",
+        "pages_order/mine/mallorderdetail",
+        "pages_order/mine/invoice",
+        "pages_order/mine/eventEntryInfo",
+        "pages_order/mine/eventEntryName",
+        "pages_wallet/wallet/ticketWallet",
+        "pages_wallet/wallet/ticketActivity",
+        "pages_wallet/wallet/ticketEvent",
+        "pages_wallet/wallet/ticketCodeEvent",
+        "pages_wallet/wallet/ticketEventCustom",
+        "pages_wallet/wallet/transferSend",
+        "pages_wallet/invitation/preview",
+        "pages_wallet/invitation/activate",
+        "pages_wallet/invitation/activateSuccess",
+        "pages_wallet/invitation/detail",
+        "pages_mall/mall/gooddetail",
+        "pages_mall/mall/mallpay",
+        "pages_mall/mall/mallpayfinish",
+        "pages_mall/mall/sharegoods",
+        "pages_mall/mall/mall",
+        "pages_mall/mall/mallBrand",
+        "pages_plan/plan/sessionseries",
+        "pages_plan/plan/sessionseriesMap",
+        "pages_plan/plan/freechoose",
+        "pages_plan/plan/plandetail",
+        "pages_plan/plan/writeplanform",
+        "pages_plan/plan/balancepay",
+        "pages_plan/plan/mainservice",
+        "pages_plan/plan/childservice",
+        "pages_plan/plan/planpay",
+        "pages_plan/plan/planentryinfo",
+        "pages_plan/plan/planpaysuccess",
+        "pages_plan/plan/internationaleventslist",
+        "pages_plan/plan/specialtopicdetailwithouttab",
+        "pages_vip/vip/index",
+        "pages_vip/vip/integral",
+        "pages_vip/vip/ticketBean",
+        "pages_vip/vip/poster",
+        "pages_vip/vip/priorityTicketList",
+        "pages_mine/mine/systemset",
+        "pages_mine/mine/networkerror",
+        "pages_mine/mine/helpcenter",
+        "pages_mine/mine/closeaccount",
+        "pages_mine/mine/purchasermanage",
+        "pages_mine/mine/purchaseradd",
+        "pages_mine/mine/phoneauth",
+        "pages_mine/mine/myfavorite",
+        "pages_mine/mine/addreesmanage",
+        "pages_mine/mine/edituserinfo",
+        "pages_mine/mine/agreement",
+        "pages_mine/mine/myBooking",
+        "pages_mine/mine/myEntry",
+        "pages_mine/mine/entryName",
+        "pages_mine/mine/myCoupon",
+        "pages_mine/mine/getCoupon",
+        "pages_activity/activity/check",
+        "pages_activity/activity/pay",
+        "pages_activity/activity/detail"
+    ],
+    "page": {
+        "pages/index/index.html": {
+            "window": {
+                "navigationBarTitleText": "看个比赛",
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "black",
+                "enablePullDownRefresh": true
+            }
+        },
+        "pages/zthtml/zthtml.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "navigationBarTextStyle": "black",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages/index/index_leveltwo.html": {
+            "window": {
+                "navigationBarTitleText": "看个比赛",
+                "enablePullDownRefresh": false
+            }
+        },
+        "pages/training/training.html": {
+            "window": {
+                "navigationBarTitleText": "活动",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages/gameevent/gameevent.html": {
+            "window": {
+                "navigationBarTitleText": "赛事",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "black"
+            }
+        },
+        "pages/training/travel.html": {
+            "window": {
+                "navigationBarTitleText": "旅游",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages/mine/mine.html": {
+            "window": {
+                "navigationBarTitleText": "我的",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages/mine/apppay.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages/training/detail.html": {
+            "window": {
+                "navigationBarTitleText": "详情",
+                "enablePullDownRefresh": false,
+                "navigationBarTextStyle": "black",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages/mine/login.html": {
+            "window": {
+                "navigationBarTitleText": "登录",
+                "enablePullDownRefresh": false
+            }
+        },
+        "pages/plan/specialtopicdetail.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages/mine/ticketwallet.html": {
+            "window": {
+                "navigationBarTitleText": "票夹",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages/invitation/invitationdetail.html": {
+            "window": {
+                "navigationBarTitleText": "邀请函",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages/mall/mall.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages/mall/mallIndex.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages/plan/internationalevents.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "black",
+                "disableScroll": true
+            }
+        },
+        "pages/information/information.html": {
+            "window": {
+                "navigationBarTitleText": "球队资讯",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_search/search/search.html": {
+            "window": {
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_search/mallsearch/mallsearch.html": {
+            "window": {
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/sysconfig/sysconfig.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/sysconfig/sysnamenotice.html": {
+            "window": {
+                "navigationBarTitleText": "实名须知",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/setavatar/setavatar.html": {
+            "window": {
+                "navigationBarTitleText": "设置头像",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/contactcustomerservice/contactcustomerservice.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/scan/scanCode.html": {
+            "window": {
+                "navigationBarTitleText": "扫描",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/scan/scanResult.html": {
+            "window": {
+                "navigationBarTitleText": "二维码信息",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/city/choosecity.html": {
+            "window": {
+                "navigationBarTitleText": "选择城市",
+                "enablePullDownRefresh": false
+            }
+        },
+        "pages_config/information/informationdetail.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_config/information/informationwithouttab.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/uploadImg/uploadImg.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/loginforapp/loginforapp.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/limitFlow/limitFlow.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/verifyCode/verifyCode.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_config/subSale/subSale.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/eventdetail.html": {
+            "window": {
+                "navigationBarTitleText": "详情",
+                "enablePullDownRefresh": false,
+                "navigationBarTextStyle": "black",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/eventpayfinish.html": {
+            "window": {
+                "navigationBarTitleText": "订单支付",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/eventpay.html": {
+            "window": {
+                "navigationBarTitleText": "订单支付",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/addaddress.html": {
+            "window": {
+                "navigationBarTitleText": "添加新地址",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/chooseseat.html": {
+            "window": {
+                "navigationBarTitleText": "选择座位",
+                "enablePullDownRefresh": false
+            }
+        },
+        "pages_game/gameevent/sharepreview.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/shareforplan.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/shareforevent.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/orgIntroduce.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/writeEventForm.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/ticketsTips.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_game/gameevent/eventSession.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_order/mine/activityorder.html": {
+            "window": {
+                "navigationBarTitleText": "订单",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_order/mine/activityorderdetail.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_order/mine/eventorderdetail.html": {
+            "window": {
+                "navigationBarTitleText": "订单详情",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_order/mine/activityentryinfo.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_order/mine/logisticsinfo.html": {
+            "window": {
+                "navigationBarTitleText": "物流信息",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_order/mine/planorderdetail.html": {
+            "window": {
+                "navigationBarTitleText": "订单详情",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_order/mine/mallorderdetail.html": {
+            "window": {
+                "navigationBarTitleText": "订单详情",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_order/mine/invoice.html": {
+            "window": {
+                "navigationBarTitleText": "开具发票",
+                "enablePullDownRefresh": false,
+                "navigationBarBackgroundColor": "#F6F7F8"
+            }
+        },
+        "pages_order/mine/eventEntryInfo.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_order/mine/eventEntryName.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_wallet/wallet/ticketWallet.html": {
+            "window": {
+                "navigationBarTitleText": "票夹",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_wallet/wallet/ticketActivity.html": {
+            "window": {
+                "navigationBarTitleText": "电子票",
+                "enablePullDownRefresh": false,
+                "navigationBarBackgroundColor": "#F8F8F8",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_wallet/wallet/ticketEvent.html": {
+            "window": {
+                "navigationBarTitleText": "电子票",
+                "enablePullDownRefresh": false,
+                "navigationBarBackgroundColor": "#F8F8F8",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_wallet/wallet/ticketCodeEvent.html": {
+            "window": {
+                "navigationBarTitleText": "取票码",
+                "enablePullDownRefresh": false,
+                "navigationBarBackgroundColor": "#F8F8F8",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_wallet/wallet/ticketEventCustom.html": {
+            "window": {
+                "navigationBarTitleText": "票详情",
+                "enablePullDownRefresh": false,
+                "navigationBarBackgroundColor": "#F8F8F8"
+            }
+        },
+        "pages_wallet/wallet/transferSend.html": {
+            "window": {
+                "navigationBarTitleText": "转增人信息",
+                "enablePullDownRefresh": false,
+                "navigationBarBackgroundColor": "#F8F8F8",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_wallet/invitation/preview.html": {
+            "window": {
+                "navigationBarTitleText": "邀请函预览",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_wallet/invitation/activate.html": {
+            "window": {
+                "navigationBarTitleText": "邀请",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_wallet/invitation/activateSuccess.html": {
+            "window": {
+                "navigationBarTitleText": "邀请成功",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_wallet/invitation/detail.html": {
+            "window": {
+                "navigationBarTitleText": "邀请函",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mall/mall/gooddetail.html": {
+            "window": {
+                "navigationBarTitleText": "商品详情",
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_mall/mall/mallpay.html": {
+            "window": {
+                "navigationBarTitleText": "订单详情",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mall/mall/mallpayfinish.html": {
+            "window": {
+                "navigationBarTitleText": "确认订单",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mall/mall/sharegoods.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mall/mall/mall.html": {
+            "window": {
+                "navigationBarTitleText": "商城详情",
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_mall/mall/mallBrand.html": {
+            "window": {
+                "navigationBarTitleText": "全部品牌",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_plan/plan/sessionseries.html": {
+            "window": {
+                "navigationBarTitleText": "关注我的球队系列",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_plan/plan/sessionseriesMap.html": {
+            "window": {
+                "navigationBarTitleText": "场馆系列套餐",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_plan/plan/freechoose.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_plan/plan/plandetail.html": {
+            "window": {
+                "navigationBarTitleText": "详情",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_plan/plan/writeplanform.html": {
+            "window": {
+                "navigationBarTitleText": "报名",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_plan/plan/balancepay.html": {
+            "window": {
+                "navigationBarTitleText": "支付尾款",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_plan/plan/mainservice.html": {
+            "window": {
+                "navigationBarTitleText": "详情",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_plan/plan/childservice.html": {
+            "window": {
+                "navigationBarTitleText": "选择附加服务",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_plan/plan/planpay.html": {
+            "window": {
+                "navigationBarTitleText": "订单支付",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_plan/plan/planentryinfo.html": {
+            "window": {
+                "navigationBarTitleText": "报名信息",
+                "enablePullDownRefresh": false
+            }
+        },
+        "pages_plan/plan/planpaysuccess.html": {
+            "window": {
+                "navigationBarTitleText": "支付完成",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_plan/plan/internationaleventslist.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_plan/plan/specialtopicdetailwithouttab.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_vip/vip/index.html": {
+            "window": {
+                "navigationBarTitleText": "会员中心",
+                "enablePullDownRefresh": false,
+                "navigationBarBackgroundColor": "#000000",
+                "navigationBarTextStyle": "white"
+            }
+        },
+        "pages_vip/vip/integral.html": {
+            "window": {
+                "navigationBarTitleText": "我的积分",
+                "enablePullDownRefresh": true
+            }
+        },
+        "pages_vip/vip/ticketBean.html": {
+            "window": {
+                "navigationBarTitleText": "我的票豆",
+                "enablePullDownRefresh": true
+            }
+        },
+        "pages_vip/vip/poster.html": {
+            "window": {
+                "navigationBarTitleText": "会员分享",
+                "enablePullDownRefresh": false
+            }
+        },
+        "pages_vip/vip/priorityTicketList.html": {
+            "window": {
+                "navigationBarTitleText": "抢票专区",
+                "enablePullDownRefresh": true
+            }
+        },
+        "pages_mine/mine/systemset.html": {
+            "window": {
+                "navigationBarTitleText": "系统设置",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/networkerror.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationBarBackgroundColor": "#F8F8F8"
+            }
+        },
+        "pages_mine/mine/helpcenter.html": {
+            "window": {
+                "navigationBarTitleText": "帮助中心",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/closeaccount.html": {
+            "window": {
+                "navigationBarTitleText": "账号信息注销确认",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/purchasermanage.html": {
+            "window": {
+                "navigationBarTitleText": "实名购票人",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/purchaseradd.html": {
+            "window": {
+                "navigationBarTitleText": "新增实名持票人",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/phoneauth.html": {
+            "window": {
+                "navigationBarTitleText": "手机认证",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/myfavorite.html": {
+            "window": {
+                "navigationBarTitleText": "我想看的",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/addreesmanage.html": {
+            "window": {
+                "navigationBarTitleText": "收货地址",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/edituserinfo.html": {
+            "window": {
+                "navigationBarTitleText": "编辑个人信息",
+                "enablePullDownRefresh": false,
+                "backgroundColor": "#FFFFFF",
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/agreement.html": {
+            "window": {
+                "enablePullDownRefresh": false
+            }
+        },
+        "pages_mine/mine/myBooking.html": {
+            "window": {
+                "navigationBarTitleText": "我的预约",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/myEntry.html": {
+            "window": {
+                "navigationBarTitleText": "我的报名",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/entryName.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/myCoupon.html": {
+            "window": {
+                "navigationBarTitleText": "我的优惠券",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_mine/mine/getCoupon.html": {
+            "window": {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_activity/activity/check.html": {
+            "window": {
+                "navigationBarTitleText": "活动审核",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_activity/activity/pay.html": {
+            "window": {
+                "navigationBarTitleText": "订单支付",
+                "enablePullDownRefresh": false,
+                "navigationStyle": "custom"
+            }
+        },
+        "pages_activity/activity/detail.html": {
+            "window": {
+                "navigationBarTitleText": "详情",
+                "enablePullDownRefresh": false,
+                "navigationBarTextStyle": "black",
+                "navigationStyle": "custom"
+            }
+        }
+    },
+    "permission": {
+        "scope.userLocation": {
+            "desc": "你的位置信息将用于小程序位置接口的效果展示"
+        }
+    },
+    "global": {
+        "window": {
+            "navigationBarTextStyle": "black",
+            "navigationBarTitleText": "",
+            "navigationBarBackgroundColor": "#FFFFFF",
+            "backgroundColor": "#FFFFFF",
+            "scrollIndicator": "none"
+        }
+    },
+    "tabBar": {
+        "color": "#AAAAAA",
+        "selectedColor": "#1A1A1A",
+        "custom": true,
+        "list": [
+            {
+                "text": "首页",
+                "pagePath": "pages/index/index.html",
+                "iconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAtUExURUdwTNPT09TU1NTU1NPT09HR0dXV1dHR0dPT09HR0dPT09PT0////9vb2/Hx8dnLtwMAAAALdFJOUwC/4KLzRBgMhixkcfS1SQAAAN5JREFUOMtjYKAr4DRxnoBNnN16927nAiwSIbuBQBVTvHg3GJhjWKANkdiEbs2S3VDghSrOsRsOGtBdBAObkV2WuBsJiGHajGH/pN0oQBMmzuqNKrElANnPyMAVuwa4lujdu7FqwdQA1TJlNxbgCZTQxiaxCZ/EDCFMccVOsLMK0cXFoR5kRJcQoLfEvXNnQOAdhsQZKHhNtMQdqMRtDMvv7r179+5tkPhuA6gEM7qrCEpwoEs0EJLgQpdYAEuh6BLwNCqNKr4RPZvBAFJ2S11hKKQEElNSFO4Ko1sBAgDgnq92WhtnAAAAAABJRU5ErkJggg==",
+                "selectedIconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA/UExURUdwTBkZGRoaGhkZGRkZGRYWFhoaGhkZGRoaGhoaGhoaGhoaGhkZGRoaGv///zU1NeTk5E9PT76+vmxsbKampkICYYYAAAANdFJOUwCyhl/kEEDA9Cyg2pmQeKolAAAA4UlEQVRIx+WWSRKDIBBFwzx2RJP7nzUOSaEodFvuzFu5+A9pqPr6eNwVF62NjhxXEWaiouWFhC9SUJb3sMKjL3EBNgRkEmGhwDa3xeEAXt8+g0NYZRBloIJRlHGx0Z2EBnJnaAtNrD6XLw2B5reGBgrZ0BZOGY6YH43lrAKQCbMg6YJctsQZyZGMr67PYHFT3PR/C/2Q0vNHSkOHCTm98D4rDJjw2uZTXxFWDdON9BPTQ+6aQvDYKfmrAscEflUQmFCWuMOEXfWxdp6Ru77R+EoL7o0JIX8UQzDGc6HVvf4qPkVjPMcrOWiJAAAAAElFTkSuQmCC"
+            },
+            {
+                "text": "票务",
+                "pagePath": "pages/gameevent/gameevent.html",
+                "iconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAwUExURUdwTNHR0dnZ2dTU1NHR0dbW1tbW1tTU1NPT09vb2+zs7N/f39PT0////+7u7uPj46GrMVUAAAAMdFJOUwAfkeALukbH9GPY5VePNvwAAADxSURBVDjLY2CgBXAUFBRBE2JTCjc+AwbnVZDFWWrOwMC5VwlIEkxw8TPn371EkuBASJx7904BISGDIvEIIZGDIvEuAC4xB9kOZC06qBIIW5AkzoAk4A6LQZN4B/NLDZLEP5DEEqiEzRk0Sx5hkThz/t+797+hEj1n0MAJqMQZDECuBAumhANYghHE/HsXCO7DJAQQEnfBgBQJbEaxUM8fuCVwBqINzFUwhx1GkrgLA8gSNegSR5ESA4pRR7EkHzA4REhiDrrEScxEDQHHMLMBBBzEzDgQ0ICZ1SBAATNzgsFRB8zsfOaMcalSAuECgDoAAGidGHSWgR59AAAAAElFTkSuQmCC",
+                "selectedIconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABCUExURUdwTC0tLRoaGhkZGRoaGhYWFi4uLhsbGxsbGxoaGiYmJhoaGjg4ODY2Njk5ORoaGv///zk5Oe3t7V5eXmhoaOTk5NoSIX4AAAAPdFJOUwBv9EzgC/4gxpqFt81N8g+3Yi8AAADrSURBVEjH1dXZEoMgDAVQF5CgVgza///V2k0BE40zbcfeZ46lSSZk2X9Em0f09qnSWgClXJiq5j8KjghiaxhgHQ2wu9Cg4ABiTp03jgekKLcAEn89p0GF3G/U22At6CLNd1rXqtkB2CX9ALdzJ2xjoNyuyGVgIk9TgaDRUYoIOEF+C7QEaGpYR9+/4ocUGArM5yfxHTAIr6TP14fj4PDwvcd7uPZRrkutFAl8n8QzAPYBkEtgTIQfZ9CI1kwQK1lkYWrJqgyTS5ZxmFKy7rlhlbS6EG5jpkjco7gEtOjZvU+EArC2/MTDfprcAPlPTwZang0RAAAAAElFTkSuQmCC"
+            },
+            {
+                "text": "票夹",
+                "pagePath": "pages/mine/ticketwallet.html",
+                "iconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAwUExURUdwTNTU1NXV1dbW1tnZ2dfX19TU1Ovr6+bm5tzc3ODg4NPT0+7u7v///+Dg4NjY2MJ15dwAAAALdFJOUwD0UsueMd/pcQwk5lEuZAAAANlJREFUOMtjYKATYHKT3r17/5szIFDciRBntd4NAvvBEmeON8AlFHdDwB+IzBG4BmmoxEaIxBmYFubdMFADkTgFldCGiW8URzXLG64DatZxqEQ2QkLuHRA8PxMAkZDejZABk/8UIBK7MYAlLonNE3BIbHTAIbFbCpfEDlwSm3FJbMQlsXvoSry5CwZ3fqNL3IWC00RLvIVKYBi1+///d+/e//9NkXOlccVHNqbENrQkCgdbUBM1AmxCywZwYICacRB2B6BmNTgQQs2ciFQVgJKd4eakKNCrGAEAsXcjypH6lp0AAAAASUVORK5CYII=",
+                "selectedIconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAA8UExURUdwTBkZGRkZGRoaGhgYGBkZGRkZGRkZGRkZGRoaGhoaGv///zY2NuDg4FNTU0pKSrGxse/v7zExMWxsbAF6uX0AAAAKdFJOUwAagcBSmKQz2PZA6cLAAAAAxUlEQVRIx+2W0Q6CMAxFYY6uvTpB/P9/FaNGBrWjL5oQz8teeka7ZLs0zZ6IxII7wl2a0bZqeWLM4JgKR9leUMDJNtKiHiDbYKwIpbFoaF0vYo1BUGDjEwzVoO5JiAtBUIND0RM2cPAKhbFJQOcV0HqF4BXYK4hXwF/4ntDnnI8vch7GmvCufjDUhItXuJZG7utDnybOE/20jr86VvHeB/beONomkPUYa8TG1xObgaKMnKzIUuqjFYpaWnyO3fXmTHFXfxg3qII5PkxAHD8AAAAASUVORK5CYII="
+            },
+            {
+                "text": "欧洲杯",
+                "pagePath": "pages/plan/specialtopicdetail.html",
+                "iconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAqUExURUdwTNTU1NPT09TU1NTU1NPT09PT09PT09XV1f///9PT093d3evr6/T09E2eUIwAAAAJdFJOUwAq7w3as5mDYUb/v6oAAAE+SURBVDjLvZO/SgNBEMYTLGIpNoJdGpGrLNQXEBHSapVSO6sIVqmCbzEmKTzUwJw+gBd8gJz4AEEfxt2Z7272FhYrneLCfr/Mn52d6XT+0TZ2LrL89OYg1ru3LHa2FemXDNtrkztubD/UjzmwqyDxMARPVsARt+y8Addt8FzrmxzZBGA70Jal+/TjSMUnEVmsbgb9Ze10ci65XrIH/Z0IgEcCDvF/MnAiYFfBOgAPAsa1w1yYPywEaD/eaMa8clS6ImAgYEWVuM384VGAVqsxiKb+JxeAFHOt4F6OBl5rUBnINDdClRZqAFA1AZF8iOtJuVO2cscaQy+oKRbWEvRDI6ElvokFgDqgiT0DX3iBUfNQCj6g46HkaZ38XcZj4oehWAYT0f9tfJIDlx7R5FAn1yC9OOlVSy5nep3/0n4AM2GYd4DtBrQAAAAASUVORK5CYII=",
+                "selectedIconData": "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"
+            },
+            {
+                "text": "我的",
+                "pagePath": "pages/mine/mine.html",
+                "iconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAqUExURUdwTNTU1NTU1NPT09PT09PT09LS0tLS0tPT09PT0////+vr6+Dg4PX19dPpi+QAAAAJdFJOUwCg24G/YyA88gYIh+gAAAEISURBVDjLY2AYcMBWaizo4qSkpOTiKGxahhBP7JyJDBoToOKsM9FAO1SiEl1iBlSLJrrETAGIzRjiMxuwWzFz5nSwBDOmxFSwBCNBid23T0JZk1Ekdq1ateoksgQLhDMbKL5qDRaJUyCJVRD2RGSJW2CJnZgSYPFVN5EkmMDsORCJlRgSMwlIYBqFxXKoxCyQ+NqZmBJzkDyIIoEcJCgSc0E6Vs8kxlUsCA0w25EldkEkILYgS0DFIWYhScyBSaxEi0G4xBr0qJ1zZjcQ7DmDJc4xUgnOdIUzJeJMuwyeGBIGEIkMdPFJ0IzD3okmoQbLg8waKPnJFSnbppcaGwqCgHFoeQLdCgsAy8Gq/+wIvhoAAAAASUVORK5CYII=",
+                "selectedIconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABOUExURUdwTBkZGRgYGBoaGhkZGRkZGRoaGhoaGhoaGhkZGRkZGRkZGRoaGhoaGv///ycnJ62trXZ2dvf39zw8PGFhYeLi4oyMjMnJyZubm1BQUNxhNu0AAAANdFJOUwA1Hw1k3/Kggr/RQ9m7WphoAAABHElEQVRIx+WW25KEIAxER0EuOuGigvr/P7q6VSvgDJtY87bbTxbmGKgu0j4e/1ztwJWSUmvdd4f6/UlKxfnQvqlupIC6hLwyAyASTfl9QCWKHj0OgLzXYG/BEsApAGSnUCSAJ0B+CljvFuftZVVVAT+aQ2GuArp4sZofeRKwnfVmnCpGFMCSALMSAJvVm1ABntnylAOmAnSfAHYkbCkHwGVApABTahEsBYD5tGEDEnBa7YEE2OScsxQfQnboxeJOh8IHhwLRlJoRoLDte1MIMJurpt9v3AswIgDYzfsY3a41Rj9vlnKn8alxey7dnnwtabbm01sTAFWklUDrO1YmCkY8r5nFVF9nhObsbYw2R47uQXpKHRnasD/2u/AFwMxJUFcuDZAAAAAASUVORK5CYII="
+            },
+            {
+                "text": "商城",
+                "pagePath": "pages/mall/mallIndex.html"
+            },
+            {
+                "text": "旅游",
+                "pagePath": "pages/training/travel.html"
+            },
+            {
+                "text": "资讯",
+                "pagePath": "pages/information/information.html"
+            },
+            {
+                "text": "国际",
+                "pagePath": "pages/plan/internationalevents.html",
+                "iconData": "iVBORw0KGgoAAAANSUhEUgAAADAAAAAwBAMAAAClLOS0AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAqUExURUdwTNTU1NPT09TU1NTU1NPT09PT09PT09XV1f///9PT093d3evr6/T09E2eUIwAAAAJdFJOUwAq7w3as5mDYUb/v6oAAAE+SURBVDjLvZO/SgNBEMYTLGIpNoJdGpGrLNQXEBHSapVSO6sIVqmCbzEmKTzUwJw+gBd8gJz4AEEfxt2Z7272FhYrneLCfr/Mn52d6XT+0TZ2LrL89OYg1ru3LHa2FemXDNtrkztubD/UjzmwqyDxMARPVsARt+y8Addt8FzrmxzZBGA70Jal+/TjSMUnEVmsbgb9Ze10ci65XrIH/Z0IgEcCDvF/MnAiYFfBOgAPAsa1w1yYPywEaD/eaMa8clS6ImAgYEWVuM384VGAVqsxiKb+JxeAFHOt4F6OBl5rUBnINDdClRZqAFA1AZF8iOtJuVO2cscaQy+oKRbWEvRDI6ElvokFgDqgiT0DX3iBUfNQCj6g46HkaZ38XcZj4oehWAYT0f9tfJIDlx7R5FAn1yC9OOlVSy5nep3/0n4AM2GYd4DtBrQAAAAASUVORK5CYII=",
+                "selectedIconData": "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"
+            },
+            {
+                "text": "专题",
+                "pagePath": "pages/zthtml/zthtml.html"
+            }
+        ]
+    },
+    "preloadRule": {
+        "pages/index/index": {
+            "network": "all",
+            "packages": [
+                "pages_mine",
+                "pages_search",
+                "pages_config",
+                "pages_game",
+                "pages_order",
+                "pages_mall",
+                "pages_plan",
+                "pages_vip",
+                "pages_wallet",
+                "pages_activity"
+            ]
+        }
+    },
+    "renderer": {
+        "allUsed": [
+            "webview"
+        ],
+        "default": "webview"
+    },
+    "requiredPrivateInfos": [
+        "getLocation"
+    ],
+    "componentFramework": {
+        "allUsed": [
+            "exparser"
+        ],
+        "default": "exparser"
+    }
+}

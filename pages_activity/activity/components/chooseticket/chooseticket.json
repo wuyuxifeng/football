@@ -1,0 +1,6 @@
+{
+    "component": true,
+    "usingComponents": {
+        "choosepurchaser": "/pages_activity/activity/components/choosePurchaserAc/choosePurchaserAc"
+    }
+}

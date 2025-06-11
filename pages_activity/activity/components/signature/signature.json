@@ -1,0 +1,7 @@
+{
+    "usingComponents": {
+        "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+        "l-signature": "/uni_modules/lime-signature/components/l-signature/l-signature"
+    },
+    "component": true
+}

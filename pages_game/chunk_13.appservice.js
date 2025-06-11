@@ -1,0 +1,347 @@
+$gwx2_XC_5=function(_,_v,_n,_p,_s,_wp,_wl,$gwn,$gwl,$gwh,wh,$gstack,$gwrt,gra,grb,TestTest,wfor,_ca,_da,_r,_rz,_o,_oz,_1,_1z,_2,_2z,_m,_mz,nv_getDate,nv_getRegExp,nv_console,nv_parseInt,nv_parseFloat,nv_isNaN,nv_isFinite,nv_decodeURI,nv_decodeURIComponent,nv_encodeURI,nv_encodeURIComponent,$gdc,nv_JSON,_af,_gv,_ai,_grp,_gd,_gapi,$ixc,_ic,_w,_ev,_tsd){return function(path,global){
+if(typeof global==='undefined'){if (typeof __GWX_GLOBAL__==='undefined')global={};else global=__GWX_GLOBAL__;}if(typeof __WXML_GLOBAL__ === 'undefined') {__WXML_GLOBAL__={};
+}__WXML_GLOBAL__.modules = __WXML_GLOBAL__.modules || {};
+var e_={}
+if(typeof(global.entrys)==='undefined')global.entrys={};e_=global.entrys;
+var d_={}
+if(typeof(global.defines)==='undefined')global.defines={};d_=global.defines;
+var f_={}
+if(typeof(global.modules)==='undefined')global.modules={};f_=global.modules || {};
+var p_={}
+__WXML_GLOBAL__.ops_cached = __WXML_GLOBAL__.ops_cached || {}
+__WXML_GLOBAL__.ops_set = __WXML_GLOBAL__.ops_set || {};
+__WXML_GLOBAL__.ops_init = __WXML_GLOBAL__.ops_init || {};
+var z=__WXML_GLOBAL__.ops_set.$gwx2_XC_5 || [];
+function gz$gwx2_XC_5_1(){
+if( __WXML_GLOBAL__.ops_cached.$gwx2_XC_5_1)return __WXML_GLOBAL__.ops_cached.$gwx2_XC_5_1
+__WXML_GLOBAL__.ops_cached.$gwx2_XC_5_1=[];
+(function(z){var a=11;function Z(ops){z.push(ops)}
+Z([3,'page data-v-02986890'])
+Z([[2,'||'],[[2,'=='],[[7],[3,'businessType']],[1,4]],[[2,'=='],[[7],[3,'businessType']],[1,3]]])
+Z([3,'#FFFFFF'])
+Z([3,'__l'])
+Z([3,'__e'])
+Z(z[4])
+Z([1,false])
+Z([3,'data-v-02986890'])
+Z([[4],[[5],[[5],[[4],[[5],[[5],[1,'^clickLeft']],[[4],[[5],[[4],[[5],[1,'back']]]]]]]],[[4],[[5],[[5],[1,'^clickRight']],[[4],[[5],[[4],[[5],[1,'showShareItem']]]]]]]]])
+Z([1,true])
+Z([3,'left'])
+Z(z[9])
+Z([3,'分享页'])
+Z([3,'55d86392-1'])
+Z([[4],[[5],[1,'right']]])
+Z(z[2])
+Z(z[3])
+Z(z[4])
+Z(z[6])
+Z(z[7])
+Z([[4],[[5],[[4],[[5],[[5],[1,'^clickLeft']],[[4],[[5],[[4],[[5],[1,'back']]]]]]]]])
+Z(z[9])
+Z(z[10])
+Z(z[9])
+Z(z[12])
+Z([3,'55d86392-2'])
+Z(z[1])
+Z(z[3])
+Z([3,'data-v-02986890 vue-ref'])
+Z([3,'height:1488rpx;background-color: #032AC7;position:relative;'])
+Z([3,'poster'])
+Z([1,2])
+Z([3,'55d86392-3'])
+Z([[4],[[5],[1,'default']]])
+Z(z[3])
+Z(z[7])
+Z([3,'position:absolute;height:400rpx;top:1088rpx;object-fit:cover;width: 100%;'])
+Z([[6],[[7],[3,'$root']],[3,'m1']])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-4'],[1,',']],[1,'55d86392-3']])
+Z(z[3])
+Z(z[7])
+Z([3,'position:absolute;height: 1048rpx;padding-left:64rpx;padding-right:64rpx;padding-top:120rpx;'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-5'],[1,',']],[1,'55d86392-3']])
+Z(z[33])
+Z(z[3])
+Z(z[7])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-6'],[1,',']],[1,'55d86392-5']])
+Z(z[33])
+Z(z[3])
+Z(z[7])
+Z([3,'width:622rpx; height:714rpx;'])
+Z([[6],[[7],[3,'$root']],[3,'m2']])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-7'],[1,',']],[1,'55d86392-6']])
+Z(z[3])
+Z(z[7])
+Z([3,'position:absolute;top:712rpx;width:622rpx;height:248rpx;background-image:url(https://res.dasheng.top/app/icon/hospitality_share_bottom_bg.png);display:flex;'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-8'],[1,',']],[1,'55d86392-6']])
+Z(z[33])
+Z(z[3])
+Z(z[7])
+Z([3,'width:254rpx;height:100%;text-align: center;'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-9'],[1,',']],[1,'55d86392-8']])
+Z(z[33])
+Z(z[3])
+Z(z[7])
+Z([3,'margin-top:40rpx; width:120rpx; height:120rpx;'])
+Z([[7],[3,'mpQrcode']])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-10'],[1,',']],[1,'55d86392-9']])
+Z(z[3])
+Z(z[7])
+Z([3,'height:38rpx;border: 1px solid #FF3900; radius: 19rpx;padding:0rpx 24rpx;margin-top:8rpx;line-height:38rpx;color: #FF3900;font-size: 20rpx;'])
+Z([3,'扫码了解详情'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-11'],[1,',']],[1,'55d86392-9']])
+Z(z[3])
+Z(z[7])
+Z([3,'margin-top:36rpx; width:2rpx; height:160rpx;'])
+Z([[6],[[7],[3,'$root']],[3,'m3']])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-12'],[1,',']],[1,'55d86392-8']])
+Z(z[3])
+Z(z[7])
+Z([3,'width:368rpx;height:100%;text-align: center;padding-top:40rpx;'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-13'],[1,',']],[1,'55d86392-8']])
+Z(z[33])
+Z(z[3])
+Z(z[7])
+Z([3,'line-clamp: 2;text-align:left;width:280rpx;font-size: 32rpx;color: #061343;font-weight: bold;'])
+Z([[6],[[7],[3,'itemdata']],[3,'name']])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-14'],[1,',']],[1,'55d86392-13']])
+Z(z[3])
+Z(z[7])
+Z([3,'margin-top:8rpx;text-align:left;width:280rpx;font-size: 24rpx;color: #999999;line-clamp:2;font-family: PingFangSC-Regular;'])
+Z([[2,'+'],[[2,'+'],[[7],[3,'beginTime']],[1,' - ']],[[7],[3,'endTime']]])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-15'],[1,',']],[1,'55d86392-13']])
+Z(z[3])
+Z(z[7])
+Z(z[90])
+Z([[6],[[7],[3,'itemdata']],[3,'addressDetail']])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-16'],[1,',']],[1,'55d86392-13']])
+Z(z[3])
+Z(z[7])
+Z([3,'position:absolute;right:35rpx;top:709rpx; width:552rpx; height:6rpx;'])
+Z([[6],[[7],[3,'$root']],[3,'m4']])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-17'],[1,',']],[1,'55d86392-6']])
+Z(z[3])
+Z(z[7])
+Z([3,'position:absolute;width:32rpx;height:32rpx;background-color:#032AC7;left:-16rpx;top:696rpx;radius:50%;'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-18'],[1,',']],[1,'55d86392-6']])
+Z(z[3])
+Z(z[7])
+Z([3,'position:absolute;width:32rpx;height:32rpx;background-color:#032AC7;right:-16rpx;top:696rpx;radius:50%;'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-19'],[1,',']],[1,'55d86392-6']])
+Z(z[3])
+Z(z[4])
+Z(z[4])
+Z(z[28])
+Z([3,'width: 750rpx; height: 1200rpx; background-image:url(https://res.dasheng.top/app/icon/share_page_bg.png)'])
+Z([[4],[[5],[[5],[[4],[[5],[[5],[1,'^fail']],[[4],[[5],[[4],[[5],[1,'fail']]]]]]]],[[4],[[5],[[5],[1,'^done']],[[4],[[5],[[4],[[5],[1,'done']]]]]]]]])
+Z(z[30])
+Z([3,'url'])
+Z(z[9])
+Z(z[31])
+Z([3,'55d86392-20'])
+Z(z[33])
+Z(z[3])
+Z(z[7])
+Z([3,'margin-top: 840rpx;width: 654rpx;margin-left: 48rpx;height: 328rpx;background-image:url(https://res.dasheng.top/app/icon/share_proinfo_bg.png)'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-21'],[1,',']],[1,'55d86392-20']])
+Z(z[33])
+Z(z[3])
+Z(z[7])
+Z([3,'margin-left: 160rpx;margin-top: 30rpx;width: 480rpx;color: #FFF;font-size: 28rpx;font-weight: bold; line-clamp:1'])
+Z(z[86])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-22'],[1,',']],[1,'55d86392-21']])
+Z(z[3])
+Z(z[7])
+Z([3,'display: flex;flex-direction: row;padding: 20rpx 20rpx 0rpx 20rpx;align-items: center;height: 240rpx;'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-23'],[1,',']],[1,'55d86392-21']])
+Z(z[33])
+Z(z[3])
+Z(z[7])
+Z([3,'object-fit: cover;  width: 120rpx; height: 160rpx;border-radius: 10rpx;'])
+Z([[6],[[7],[3,'itemdata']],[3,'imageUrl']])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-24'],[1,',']],[1,'55d86392-23']])
+Z(z[3])
+Z(z[7])
+Z([3,'display: flex;flex-direction: column;justify-content: space-between;margin-right: 30rpx;margin-left: 20rpx;width: 260rpx;height: 160rpx;'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-25'],[1,',']],[1,'55d86392-23']])
+Z(z[33])
+Z(z[3])
+Z(z[7])
+Z([3,'color: #333;font-size: 24rpx;'])
+Z([[2,'?:'],[[2,'=='],[[7],[3,'businessType']],[1,1]],[[6],[[7],[3,'itemdata']],[3,'timeIntervalText']],[[2,'+'],[[2,'+'],[[7],[3,'beginTime']],[1,'-']],[[7],[3,'endTime']]]])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-26'],[1,',']],[1,'55d86392-25']])
+Z(z[3])
+Z(z[7])
+Z([3,'display: flex;flex-direction: column;'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-27'],[1,',']],[1,'55d86392-25']])
+Z(z[33])
+Z([[2,'||'],[[2,'=='],[[7],[3,'businessType']],[1,1]],[[2,'=='],[[7],[3,'businessType']],[1,4]]])
+Z(z[3])
+Z(z[7])
+Z([3,'color: #333;font-size: 24rpx;font-weight: bold;line-clamp:1'])
+Z([[6],[[7],[3,'itemdata']],[3,'venueName']])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-28'],[1,',']],[1,'55d86392-27']])
+Z(z[3])
+Z(z[7])
+Z([3,'color: #999;font-size: 20rpx;line-clamp:1'])
+Z([[2,'?:'],[[2,'=='],[[7],[3,'businessType']],[1,1]],[[6],[[7],[3,'itemdata']],[3,'venueAddress']],[[6],[[7],[3,'itemdata']],[3,'addressDetail']]])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-29'],[1,',']],[1,'55d86392-27']])
+Z(z[3])
+Z(z[7])
+Z([3,'object-fit: cover;  width: 140rpx; height: 140rpx;border-radius: 70rpx;'])
+Z(z[66])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-30'],[1,',']],[1,'55d86392-23']])
+Z(z[3])
+Z(z[7])
+Z([3,'color: #FF3900;font-size: 20rpx;width: 20rpx;line-height: 23rpx;margin-left: 10rpx;'])
+Z([3,'查看活动详情'])
+Z([[2,'+'],[[2,'+'],[1,'55d86392-31'],[1,',']],[1,'55d86392-23']])
+Z([[2,'||'],[[2,'=='],[[7],[3,'businessType']],[1,1]],[[2,'=='],[[7],[3,'businessType']],[1,2]]])
+Z(z[179])
+Z(z[3])
+Z(z[28])
+Z([3,'popup'])
+Z([3,'bottom'])
+Z([3,'55d86392-32'])
+Z(z[33])
+Z(z[3])
+Z(z[28])
+Z([3,'confirm'])
+Z([3,'55d86392-33'])
+Z(z[3])
+Z(z[28])
+Z([3,'verifycode'])
+Z([3,'55d86392-34'])
+})(__WXML_GLOBAL__.ops_cached.$gwx2_XC_5_1);return __WXML_GLOBAL__.ops_cached.$gwx2_XC_5_1
+}
+__WXML_GLOBAL__.ops_set.$gwx2_XC_5=z;
+__WXML_GLOBAL__.ops_init.$gwx2_XC_5=true;
+var x=['./pages_game/gameevent/sharepreview.wxml'];d_[x[0]]={}
+var m0=function(e,s,r,gg){
+var z=gz$gwx2_XC_5_1()
+var eVG=_n('view')
+_rz(z,eVG,'class',0,e,s,gg)
+var bWG=_v()
+_(eVG,bWG)
+if(_oz(z,1,e,s,gg)){bWG.wxVkey=1
+var f1G=_mz(z,'uni-nav-bar',['backgroundColor',2,'bind:__l',1,'bind:clickLeft',2,'bind:clickRight',3,'border',4,'class',5,'data-event-opts',6,'fixed',7,'leftIcon',8,'statusBar',9,'title',10,'vueId',11,'vueSlots',12],[],e,s,gg)
+_(bWG,f1G)
+}
+else{bWG.wxVkey=2
+var c2G=_mz(z,'uni-nav-bar',['backgroundColor',15,'bind:__l',1,'bind:clickLeft',2,'border',3,'class',4,'data-event-opts',5,'fixed',6,'leftIcon',7,'statusBar',8,'title',9,'vueId',10],[],e,s,gg)
+_(bWG,c2G)
+}
+var oXG=_v()
+_(eVG,oXG)
+if(_oz(z,26,e,s,gg)){oXG.wxVkey=1
+var h3G=_mz(z,'l-painter',['bind:__l',27,'class',1,'css',2,'data-ref',3,'pixelRatio',4,'vueId',5,'vueSlots',6],[],e,s,gg)
+var o4G=_mz(z,'l-painter-image',['bind:__l',34,'class',1,'css',2,'src',3,'vueId',4],[],e,s,gg)
+_(h3G,o4G)
+var c5G=_mz(z,'l-painter-view',['bind:__l',39,'class',1,'css',2,'vueId',3,'vueSlots',4],[],e,s,gg)
+var o6G=_mz(z,'l-painter-view',['bind:__l',44,'class',1,'vueId',2,'vueSlots',3],[],e,s,gg)
+var l7G=_mz(z,'l-painter-image',['bind:__l',48,'class',1,'css',2,'src',3,'vueId',4],[],e,s,gg)
+_(o6G,l7G)
+var a8G=_mz(z,'l-painter-view',['bind:__l',53,'class',1,'css',2,'vueId',3,'vueSlots',4],[],e,s,gg)
+var t9G=_mz(z,'l-painter-view',['bind:__l',58,'class',1,'css',2,'vueId',3,'vueSlots',4],[],e,s,gg)
+var e0G=_mz(z,'l-painter-image',['bind:__l',63,'class',1,'css',2,'src',3,'vueId',4],[],e,s,gg)
+_(t9G,e0G)
+var bAH=_mz(z,'l-painter-text',['bind:__l',68,'class',1,'css',2,'text',3,'vueId',4],[],e,s,gg)
+_(t9G,bAH)
+_(a8G,t9G)
+var oBH=_mz(z,'l-painter-image',['bind:__l',73,'class',1,'css',2,'src',3,'vueId',4],[],e,s,gg)
+_(a8G,oBH)
+var xCH=_mz(z,'l-painter-view',['bind:__l',78,'class',1,'css',2,'vueId',3,'vueSlots',4],[],e,s,gg)
+var oDH=_mz(z,'l-painter-text',['bind:__l',83,'class',1,'css',2,'text',3,'vueId',4],[],e,s,gg)
+_(xCH,oDH)
+var fEH=_mz(z,'l-painter-text',['bind:__l',88,'class',1,'css',2,'text',3,'vueId',4],[],e,s,gg)
+_(xCH,fEH)
+var cFH=_mz(z,'l-painter-text',['bind:__l',93,'class',1,'css',2,'text',3,'vueId',4],[],e,s,gg)
+_(xCH,cFH)
+_(a8G,xCH)
+_(o6G,a8G)
+var hGH=_mz(z,'l-painter-image',['bind:__l',98,'class',1,'css',2,'src',3,'vueId',4],[],e,s,gg)
+_(o6G,hGH)
+var oHH=_mz(z,'l-painter-view',['bind:__l',103,'class',1,'css',2,'vueId',3],[],e,s,gg)
+_(o6G,oHH)
+var cIH=_mz(z,'l-painter-view',['bind:__l',107,'class',1,'css',2,'vueId',3],[],e,s,gg)
+_(o6G,cIH)
+_(c5G,o6G)
+_(h3G,c5G)
+_(oXG,h3G)
+}
+else{oXG.wxVkey=2
+var oJH=_mz(z,'l-painter',['bind:__l',111,'bind:done',1,'bind:fail',2,'class',3,'css',4,'data-event-opts',5,'data-ref',6,'pathType',7,'performance',8,'pixelRatio',9,'vueId',10,'vueSlots',11],[],e,s,gg)
+var lKH=_mz(z,'l-painter-view',['bind:__l',123,'class',1,'css',2,'vueId',3,'vueSlots',4],[],e,s,gg)
+var aLH=_mz(z,'l-painter-text',['bind:__l',128,'class',1,'css',2,'text',3,'vueId',4],[],e,s,gg)
+_(lKH,aLH)
+var tMH=_mz(z,'l-painter-view',['bind:__l',133,'class',1,'css',2,'vueId',3,'vueSlots',4],[],e,s,gg)
+var eNH=_mz(z,'l-painter-image',['bind:__l',138,'class',1,'css',2,'src',3,'vueId',4],[],e,s,gg)
+_(tMH,eNH)
+var bOH=_mz(z,'l-painter-view',['bind:__l',143,'class',1,'css',2,'vueId',3,'vueSlots',4],[],e,s,gg)
+var oPH=_mz(z,'l-painter-text',['bind:__l',148,'class',1,'css',2,'text',3,'vueId',4],[],e,s,gg)
+_(bOH,oPH)
+var xQH=_mz(z,'l-painter-view',['bind:__l',153,'class',1,'css',2,'vueId',3,'vueSlots',4],[],e,s,gg)
+var oRH=_v()
+_(xQH,oRH)
+if(_oz(z,158,e,s,gg)){oRH.wxVkey=1
+var fSH=_mz(z,'l-painter-text',['bind:__l',159,'class',1,'css',2,'text',3,'vueId',4],[],e,s,gg)
+_(oRH,fSH)
+}
+var cTH=_mz(z,'l-painter-text',['bind:__l',164,'class',1,'css',2,'text',3,'vueId',4],[],e,s,gg)
+_(xQH,cTH)
+oRH.wxXCkey=1
+oRH.wxXCkey=3
+_(bOH,xQH)
+_(tMH,bOH)
+var hUH=_mz(z,'l-painter-image',['bind:__l',169,'class',1,'css',2,'src',3,'vueId',4],[],e,s,gg)
+_(tMH,hUH)
+var oVH=_mz(z,'l-painter-text',['bind:__l',174,'class',1,'css',2,'text',3,'vueId',4],[],e,s,gg)
+_(tMH,oVH)
+_(lKH,tMH)
+_(oJH,lKH)
+_(oXG,oJH)
+}
+var xYG=_v()
+_(eVG,xYG)
+if(_oz(z,179,e,s,gg)){xYG.wxVkey=1
+}
+var oZG=_v()
+_(eVG,oZG)
+if(_oz(z,180,e,s,gg)){oZG.wxVkey=1
+}
+var cWH=_mz(z,'uni-popup',['bind:__l',181,'class',1,'data-ref',2,'type',3,'vueId',4,'vueSlots',5],[],e,s,gg)
+_(eVG,cWH)
+var oXH=_mz(z,'pup-limit',['bind:__l',187,'class',1,'data-ref',2,'vueId',3],[],e,s,gg)
+_(eVG,oXH)
+var lYH=_mz(z,'verify-code-popup',['bind:__l',191,'class',1,'data-ref',2,'vueId',3],[],e,s,gg)
+_(eVG,lYH)
+bWG.wxXCkey=1
+bWG.wxXCkey=3
+bWG.wxXCkey=3
+oXG.wxXCkey=1
+oXG.wxXCkey=3
+oXG.wxXCkey=3
+xYG.wxXCkey=1
+oZG.wxXCkey=1
+_(r,eVG)
+return r
+}
+e_[x[0]]={f:m0,j:[],i:[],ti:[],ic:[]}
+if(path&&e_[path]){
+return function(env,dd,global){$gwxc=0;var root={"tag":"wx-page"};root.children=[]
+;g="$gwx2_XC_5";var main=e_[path].f
+if (typeof global==="undefined")global={};global.f=$gdc(f_[path],"",1);
+try{
+main(env,{},root,global);
+_tsd(root)
+}catch(err){
+console.log(err)
+}
+;g="";
+return root;
+}
+}
+}
+}(__g.a,__g.b,__g.c,__g.d,__g.e,__g.f,__g.g,__g.h,__g.i,__g.j,__g.k,__g.l,__g.m,__g.n,__g.o,__g.p,__g.q,__g.r,__g.s,__g.t,__g.u,__g.v,__g.w,__g.x,__g.y,__g.z,__g.A,__g.B,__g.C,__g.D,__g.E,__g.F,__g.G,__g.H,__g.I,__g.J,__g.K,__g.L,__g.M,__g.N,__g.O,__g.P,__g.Q,__g.R,__g.S,__g.T,__g.U,__g.V,__g.W,__g.X,__g.Y,__g.Z,__g.aa);if(__vd_version_info__.delayedGwx||false)$gwx2_XC_5();	if (__vd_version_info__.delayedGwx) __wxAppCode__['pages_game/gameevent/sharepreview.wxml'] = [$gwx2_XC_5, './pages_game/gameevent/sharepreview.wxml'];else __wxAppCode__['pages_game/gameevent/sharepreview.wxml'] = $gwx2_XC_5( './pages_game/gameevent/sharepreview.wxml' );
+	;__wxRoute = "pages_game/gameevent/sharepreview";__wxRouteBegin = true;__wxAppCurrentFile__="pages_game/gameevent/sharepreview.js";define("pages_game/gameevent/sharepreview.js",function(require,module,exports,window,document,frames,self,location,navigator,localStorage,history,Caches,screen,alert,confirm,prompt,XMLHttpRequest,WebSocket,Reporter,webkit,WeixinJSCore){
+require("../common/vendor.js"),(global.webpackJsonp=global.webpackJsonp||[]).push([["pages_game/gameevent/sharepreview"],{"3e9c":function(e,i,n){"use strict";n.d(i,"b",(function(){return s})),n.d(i,"c",(function(){return a})),n.d(i,"a",(function(){return t}));var t={uniNavBar:function(){return n.e("uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar").then(n.bind(null,"f9b6"))},uniPopup:function(){return n.e("uni_modules/uni-popup/components/uni-popup/uni-popup").then(n.bind(null,"5b0a"))},VerifyCodePopup:function(){return Promise.all([n.e("common/vendor"),n.e("components/VerifyCodePopup/VerifyCodePopup")]).then(n.bind(null,"6689"))}},s=function(){var e=this,i=(e.$createElement,e._self._c,4==e.businessType||3==e.businessType?e.$previewImageAddress("plan_share_icon.png"):null),n=4==e.businessType||3==e.businessType?e.$previewImageAddress("hospitality_share_bottom_img.png"):null,t=4==e.businessType||3==e.businessType?e.$previewImageAddress("hospitality_share_img.png"):null,s=4==e.businessType||3==e.businessType?e.$previewImageAddress("hospitality_share_divide_vertical.png"):null,a=4==e.businessType||3==e.businessType?e.$previewImageAddress("hospitality_share_divide.png"):null,o=1==e.businessType||2==e.businessType?e.$previewImageAddress("share-wechat.png"):null,r=1==e.businessType||2==e.businessType?e.$previewImageAddress("share-wechatq.png"):null,c=1==e.businessType||2==e.businessType?e.$previewImageAddress("share-qq.png"):null,u=1==e.businessType||2==e.businessType?e.$previewImageAddress("share-save.png"):null,p=e.$previewImageAddress("share_wechat_new.png"),l=e.$previewImageAddress("share_friend_new.png"),m=e.$previewImageAddress("share_qq_new.png"),d=e.$previewImageAddress("share_save_new.png");e.$mp.data=Object.assign({},{$root:{m0:i,m1:n,m2:t,m3:s,m4:a,m5:o,m6:r,m7:c,m8:u,m9:p,m10:l,m11:m,m12:d}})},a=[]},"568e":function(e,i,n){"use strict";n.r(i);var t=n("3e9c"),s=n("f72c");for(var a in s)["default"].indexOf(a)<0&&function(e){n.d(i,e,(function(){return s[e]}))}(a);n("980a");var o=n("828b"),r=Object(o.a)(s.default,t.b,t.c,!1,null,"02986890",null,!1,t.a,void 0);i.default=r.exports},"8d70":function(e,i,n){"use strict";(function(e){var t=n("47a9");Object.defineProperty(i,"__esModule",{value:!0}),i.default=void 0;var s=t(n("7eb4")),a=t(n("ee10")),o=n("9b69"),r=n("d9e3"),c=n("7508"),u=t(n("84f6")),p=n("6fe6"),l={components:{lPainter:function(){Promise.all([n.e("pages_game/common/vendor"),n.e("pages_game/components/lime-painter/components/l-painter/l-painter")]).then(function(){return resolve(n("2ace"))}.bind(null,n)).catch(n.oe)},lPainterView:function(){Promise.all([n.e("pages_game/common/vendor"),n.e("pages_game/components/lime-painter/components/l-painter-view/l-painter-view")]).then(function(){return resolve(n("b62f"))}.bind(null,n)).catch(n.oe)},lPainterImage:function(){Promise.all([n.e("pages_game/common/vendor"),n.e("pages_game/components/lime-painter/components/l-painter-image/l-painter-image")]).then(function(){return resolve(n("27d7"))}.bind(null,n)).catch(n.oe)},lPainterText:function(){Promise.all([n.e("pages_game/common/vendor"),n.e("pages_game/components/lime-painter/components/l-painter-text/l-painter-text")]).then(function(){return resolve(n("121d"))}.bind(null,n)).catch(n.oe)}},data:function(){return{picture:"",picture2:"",show:!1,itemdata:{},businessType:1,beginTime:"",endTime:"",mpQrcode:"",id:"",page:"",pageType:"",iosFirstOpenCamera:!0}},onLoad:function(i){this.itemdata=JSON.parse(decodeURIComponent(i.itemdata)),console.log(this.itemdata),this.businessType=i.businessType,1==this.businessType?(this.page="pages_game/gameevent/eventdetail",this.pageType="ticket_event_info",this.id=this.itemdata.id):2==this.businessType?(this.beginTime=(0,r.formatTime)(this.itemdata.beginTime,"yyyy.mm.dd hh:mi"),this.endTime=(0,r.formatTime)(this.itemdata.endTime,"yyyy.mm.dd hh:mi"),this.page="/pages_activity/activity/detail",this.pageType="training_event_info",this.id=this.itemdata.id):3==this.businessType?(this.beginTime=(0,r.formatTime)(this.itemdata.beginTime,"yyyy.mm.dd"),this.endTime=(0,r.formatTime)(this.itemdata.endTime,"yyyy.mm.dd"),this.page="pages_plan/plan/plandetail",this.pageType="plandetail_event_info",this.id=this.itemdata.id):4==this.businessType&&(this.beginTime=(0,r.formatTime)(this.itemdata.beginTime,"yyyy.mm.dd"),this.endTime=(0,r.formatTime)(this.itemdata.endTime,"yyyy.mm.dd"),this.page="pages_plan/plan/specialtopicdetailwithouttab",this.pageType="specialtopic_withouttab_event_info",this.id=this.itemdata.id),console.log("this.businessType",this.businessType),this.getMpQrcode(),e.getStorageSync("iosFirstOpenCamera")&&(this.iosFirstOpenCamera=e.getStorageSync("iosFirstOpenCamera")),console.log("this.iosFirstOpenCamera",this.iosFirstOpenCamera)},methods:{fail:function(e){console.log(e)},done:function(e){console.log("绘制完成")},getMpQrcode:function(){var i=this;(0,o.get_wx_acodeun_limit)({wxSceneType:this.pageType,id:this.id}).then((function(e){})).catch((function(n){console.log("get_wx_acodeun_limiterr",n),i.mpQrcode="data:image/png;base64,"+e.arrayBufferToBase64(n),console.log("this.mpQrcode",i.mpQrcode)}))},save:function(e){var i=this;this.$refs.poster.canvasToTempFilePathSync({fileType:"jpg",quality:1,success:function(n){console.log(n.tempFilePath),i.picture2=n.tempFilePath,3==e?i.shareQqImg():4==e?i.saveImage():i.shareImg(e)},fail:function(e){console.log("???????????",e)}})},shareWxMini:function(){console.log("分享title",this.itemdata.name),console.log("分享image",this.itemdata.imageUrl),e.share({provider:"weixin",scene:"WXSceneSession",type:5,imageUrl:this.itemdata.imageUrl,title:this.itemdata.name,miniProgram:{id:p.mpGhId,path:this.page+"?id="+this.id,type:0,webUrl:"https://www.kgbs.top/"},success:function(e){console.log("分享成功:",JSON.stringify(e))},fail:function(e){console.log("分享失败:"+JSON.stringify(e))}})},shareImg:function(i){e.share({provider:"weixin",scene:1==i?"WXSceneSession":"WXSceneTimeline",type:2,imageUrl:this.picture2,success:function(e){console.log("success:"+JSON.stringify(e))},fail:function(e){console.log("fail:"+JSON.stringify(e))}})},shareQqImg:function(){e.share({provider:"qq",type:2,Scene:"WXSenceTimeline",title:"知识岛",imageUrl:this.picture2,success:function(e){console.log("success:"+JSON.stringify(e))},fail:function(e){console.log("fail:"+JSON.stringify(e))}})},saveImage:function(){var i=this;console.log("iosFirstOpenCamera",this.iosFirstOpenCamera),"ios"===e.getSystemInfoSync().platform&&this.iosFirstOpenCamera?(e.setStorageSync("iosFirstOpenCamera",!1),this.iosFirstOpenCamera=!1,e.saveImageToPhotosAlbum({filePath:this.picture2,success:function(i){e.showToast({title:"已保存到相册",icon:"success",duration:2e3})},fail:function(e){console.log("fail:"+JSON.stringify(e))}})):(0,c.permissionCheck)().then((function(n){e.saveImageToPhotosAlbum({filePath:i.picture2,success:function(i){e.showToast({title:"已保存到相册",icon:"success",duration:2e3})},fail:function(e){console.log("fail:"+JSON.stringify(e))}})})).catch((function(i){e.showModal({title:"手机权限",content:i,success:function(e){e.confirm?(0,c.phonePermissionSetting)():e.cancel}})}))},requestAndroidPermission:function(i){var n=this;return(0,a.default)(s.default.mark((function t(){var a;return s.default.wrap((function(t){for(;;)switch(t.prev=t.next){case 0:return t.next=2,u.default.requestAndroidPermission(i);case 2:1==(a=t.sent)?e.saveImageToPhotosAlbum({filePath:n.picture2,success:function(i){e.showToast({title:"已保存到相册",icon:"success",duration:2e3})},fail:function(e){console.log("fail:"+JSON.stringify(e))}}):0==a||e.showModal({content:"媒体和文件权限被拒绝，请开启",showCancel:!1,confirmText:"开启权限",success:function(e){e.confirm&&u.default.gotoAppPermissionSetting()}});case 4:case"end":return t.stop()}}),t)})))()},cancleFun:function(){e.navigateBack({delta:1})},back:function(){e.navigateBack()},showShareItem:function(){this.$refs.popup.open()}}};i.default=l}).call(this,n("df3c").default)},"980a":function(e,i,n){"use strict";var t=n("ba49");n.n(t).a},ba49:function(e,i,n){},ca76:function(e,i,n){"use strict";(function(e,i){var t=n("47a9");n("42bd"),n("861b"),t(n("3240"));var s=t(n("568e"));e.__webpack_require_UNI_MP_PLUGIN__=n,i(s.default)}).call(this,n("3223").default,n("df3c").createPage)},f72c:function(e,i,n){"use strict";n.r(i);var t=n("8d70"),s=n.n(t);for(var a in t)["default"].indexOf(a)<0&&function(e){n.d(i,e,(function(){return t[e]}))}(a);i.default=s.a}},[["ca76","common/runtime","common/vendor"]]]);
+},{isPage:true,isComponent:true,currentFile:'pages_game/gameevent/sharepreview.js'});require("pages_game/gameevent/sharepreview.js");

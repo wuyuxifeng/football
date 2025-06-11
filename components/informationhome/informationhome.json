@@ -1,0 +1,9 @@
+{
+    "component": true,
+    "usingComponents": {
+        "uni-nav-bar": "/uni_modules/uni-nav-bar/components/uni-nav-bar/uni-nav-bar",
+        "myswipper": "/components/myswipper/myswipper",
+        "informationitems": "/components/informationitems/informationitems",
+        "my-tabbar": "/components/my-tabbar/my-tabbar"
+    }
+}

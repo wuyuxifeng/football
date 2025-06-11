@@ -1,0 +1,10 @@
+{
+    "component": true,
+    "usingComponents": {
+        "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+        "z-swiper": "/uni_modules/zebra-swiper/components/z-swiper/z-swiper",
+        "z-swiper-item": "/uni_modules/zebra-swiper/components/z-swiper-item/z-swiper-item",
+        "my-tabbar": "/components/my-tabbar/my-tabbar",
+        "ticketintroduce": "/pages/plan/components/purchasenotes/ticketintroduce"
+    }
+}
